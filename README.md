@@ -1,2 +1,3 @@
-# rapid-data-visualizer-t0zt
-A data visualization tool for modern development workflows
+# Rapid Data Visualizer T0Zt
+
+A data visualization tool for modern development workflows.
